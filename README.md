@@ -2,27 +2,26 @@
 
 <img src="https://i.imgur.com/zJB97F3.png" width="600"/>
 
-Vape **Client** - **Minecraft PvP Client** Download
+## Download Vape Client
 
-Note: **Scroll Down For Installation Guide**
+[![Minecraft 1.21.11](https://img.shields.io/badge/Minecraft-1.21.11-62B47A?style=flat-square)](#requirements)
+[![Fabric Loader](https://img.shields.io/badge/Loader-Fabric-DBD0B4?style=flat-square)](#requirements)
 
-[![Download Vape Client](https://custom-icon-badges.demolab.com/badge/Download-2ea44f?style=for-the-badge&logo=download&logoColor=white)](../../releases/latest/download/Vape-Client-1.21.11.jar)
+[![Download Vape Client](https://custom-icon-badges.demolab.com/badge/DOWNLOAD%20VAPE%20CLIENT-238636?style=for-the-badge&logo=download&logoColor=white)](../../releases/latest/download/Vape-Client-1.21.11.jar)
 
-If the download doesn't start, click **[here](../../releases/latest/download/Vape-Client-1.21.11.jar)**.
+If the button doesn't work, **[download here](../../releases/latest/download/Vape-Client-1.21.11.jar)**.
 
 ---
 
 ## What is Vape Client?
 
-**Vape Client** is a simple **Minecraft PvP Client** mod built for Minecraft players who want a lightweight client utility for Fabric. This repository is the official home for the latest **Minecraft PvP Client** release.
-
-Whether you play alone or with friends, **Minecraft PvP Client** gives you a fast way to use the client with a clean command and keybind setup for supported Fabric versions.
+**Vape Client** is a lightweight **Minecraft PvP client** utility for Fabric, with a simple command and keybind setup for supported Minecraft versions.
 
 ---
 
 ## Virus Scan
 
-**Wave Client** has been scanned and verified clean. No malware, no trojans, no miners.
+The **Vape Client** JAR has been submitted to Kaspersky OpenTip and VirusTotal. Review the linked reports below.
 
 ### Kaspersky OpenTip
 
@@ -52,7 +51,7 @@ Whether you play alone or with friends, **Minecraft PvP Client** gives you a fas
 
 ### Steps
 
-1. Go to the **[Releases](../../releases)** tab on this repo
-2. Download the latest `Vape-Client-1.21.11.jar`
-3. Place the JAR in your `.minecraft/mods` folder (Fabric)
-4. Launch Minecraft with **Fabric Loader** installed
+1. Go to the **[Releases](../../releases)** tab in this repository.
+2. Download the latest `Vape-Client-1.21.11.jar`.
+3. Place the JAR in your `.minecraft/mods` folder.
+4. Launch Minecraft with **Fabric Loader** installed.
